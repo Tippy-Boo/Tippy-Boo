@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  im a ghoul
+  𝐔𝐬𝐚𝐠𝐢 𝐋𝐨𝐯𝐞𝐬 𝐀𝐮𝐭𝐮𝐦𝐧🍂
 </p>
 
 <p align="center">
