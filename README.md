@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  im a ghoul
+  𝐅𝐚𝐝𝐢𝐧𝐠 𝐚𝐰𝐚𝐲...
 </p>
