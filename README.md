@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  im a ghoul
+  Ahhh!
 </p>
 
 <p align="center">
