@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  𝐔𝐬𝐚𝐠𝐢 𝐋𝐨𝐯𝐞𝐬 𝐀𝐮𝐭𝐮𝐦𝐧🍂
+  うさぎは秋が大好き🍂
 </p>
 
 <p align="center">
