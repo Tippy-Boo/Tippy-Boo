@@ -71,8 +71,10 @@
 
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
-  <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
-    <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
+  <a href="https://open.spotify.com/track/7l4lXk92jV4Eg2r8ZRel4K">
+    <img src="https://spotify-github-profile.me/api/view?uid=spotify&cover_image=true&theme=novathev&show_offline=false&background_color=f7f1e3&interactivity=false" alt="Spotify Player" />
+  </a>
+</p>
     
 <p align="center">
 _𝙀𝙉𝘿_
