@@ -30,11 +30,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=800&size=30&duration=2000&pause=5000&color=E8C88B&center=true&vCenter=true&width=450&height=50&lines=Few+words+for+you" alt="Few words for you" />
   </a>
 </p>
-
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&weight=700&size=15&color=C4A484&center=true&vCenter=true&width=680&height=70&lines=I+created+this+little+corner+simply+to+share+a+sense+of+peace+with+anyone+who+stops+by.;I+hope+that+when+you+leave%2C+you%E2%80%99ll+carry+with+you+a+smile;and+a+boost+of+positive+energy+for+the+days+ahead." />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%">
+    <style>
+      .coffee-text {
+        font-family: 'Georgia', 'Times New Roman', serif;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 18px;
+        fill: #967152;
+        text-anchor: middle;
+      }
+    </style>
+    <text x="400" y="40" class="coffee-text">I created this little corner simply to share a sense of peace with anyone who stops by.</text>
+    <text x="400" y="80" class="coffee-text">I hope that when you leave, you’ll carry with you a smile and a boost of positive energy</text>
+    <text x="400" y="115" class="coffee-text">for the days ahead.</text>
+  </svg>
 </p>
-
+  
 <p align="center">
   <img src="https://media.giphy.com/media/GNpnp6MDNNzIA/giphy.gif" width="100%" />
 </p>
