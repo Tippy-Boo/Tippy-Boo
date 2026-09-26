@@ -19,15 +19,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
-
-  <p align="center">
-  <img src="https://media.giphy.com/media/ovji7esqOaIbm/giphy.gif" alt="Spring Field Flowers" width="100%" />
-</p>
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 
 <fieldset style="border: 1px solid #333333; border-radius: 8px; padding: 16px; margin: 12px 0;">
   <p align="center">
-    𝑾𝒆 𝒎𝒂𝒚 𝒉𝒂𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒔𝒑𝒐𝒌𝒆𝒏 𝒐𝒓 𝒎𝒆𝒕 𝒘𝒆 𝒎𝒊𝒈𝒉𝒕 𝒆𝒗𝒆𝒏 𝒃𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒔𝒕𝒓𝒂𝒏𝒈𝒆𝒓𝒔 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒗𝒂𝒔𝒕, 𝒃𝒖𝒔𝒕𝒍𝒊𝒏𝒈 𝒘𝒐𝒓𝒍𝒅 𝒃𝒖𝒕 𝒅𝒐 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘? 𝑻𝒉𝒆 𝒇𝒂𝒄𝒕 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒐 𝒑𝒂𝒖𝒔𝒆 𝒉𝒆𝒓𝒆 𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂 𝒕𝒓𝒖𝒍𝒚 𝒈𝒆𝒏𝒕𝒍𝒆 𝒂𝒏𝒅 𝒑𝒓𝒆𝒄𝒊𝒐𝒖𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏.<br><br> ________________(⁠っ⁠˘⁠з⁠(˶⁠❛⁠⌣❛˶⁠)♡________________
+    𝑾𝒆 𝒎𝒂𝒚 𝒉𝒂𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒔𝒑𝒐𝒌𝒆𝒏 𝒐𝒓 𝒎𝒆𝒕 𝒘𝒆 𝒎𝒊𝒈𝒉𝒕 𝒆𝒗𝒆𝒏 𝒃𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒔𝒕𝒓𝒂𝒏𝒈𝒆𝒓𝒔 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒗𝒂𝒔𝒕, 𝒃𝒖𝒔𝒕𝒍𝒊𝒏𝒈 𝒘𝒐𝒓𝒍𝒅 𝒃𝒖𝒕 𝒅𝒐 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘? 𝑻𝒉𝒆 𝒇𝒂𝒄𝒕 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒐 𝒑𝒂𝒖𝒔𝒆 𝒉𝒆𝒓𝒆 𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂 𝒕𝒓𝒖𝒍𝒚 𝒈𝒆𝒏𝒕𝒍𝒆 𝒂𝒏𝒅 𝒑𝒓𝒆𝒄𝒊𝒐𝒖𝒔 𝒄𝒐𝒏𝒏𝒆𝒕𝒊𝒐𝒏.<br><br> ________________(⁠っ⁠˘⁠з⁠(˶⁠❛⁠⌣❛˶⁠)♡________________
 <p align="center">
    <strong>𝑻𝒊𝒑𝒑𝒚-𝑩𝒐𝒐</strong><br><br>
     𝑰 𝒂𝒎 𝑻𝒊𝒑𝒑𝒚-𝑩𝒐𝒐, 𝒂 𝒔𝒐𝒖𝒍 𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒄𝒂𝒑𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝒃𝒚 𝒍𝒊𝒇𝒆’𝒔 𝒔𝒎𝒂𝒍𝒍, 𝒈𝒆𝒏𝒕𝒍𝒆 𝒘𝒐𝒏𝒅𝒆𝒓𝒔.<br>
@@ -62,8 +58,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/1ptGhPZSTKkMg/giphy.gif" alt="Flowers Movie Film" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4EoRhmh4w3wqcdAk/giphy.gif" alt="Central Park" width="100%" />
 </p>
