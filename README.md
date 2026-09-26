@@ -19,6 +19,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ovji7esqOaIbm/giphy.gif" alt="Spring Field Flowers" width="100%" />
+</p>
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 
 <fieldset style="border: 1px solid #333333; border-radius: 8px; padding: 16px; margin: 12px 0;">
