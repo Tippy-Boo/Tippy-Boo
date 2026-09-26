@@ -26,5 +26,5 @@
   </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flower" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OHlycnM3Y3d6aWNvZmVwbjRtdnBxb3B1ZTFndHNvNXppc3F3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flower" width="100%" />
 </p>
