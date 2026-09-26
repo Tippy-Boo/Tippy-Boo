@@ -27,8 +27,14 @@
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=800&size=30&duration=2000&pause=5000&color=E8C88B&center=true&vCenter=true&width=450&height=50&lines=Few+words+for+you" alt="A few words for you" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=800&size=30&duration=2000&pause=5000&color=E8C88B&center=true&vCenter=true&width=450&height=50&lines=Few+words+for+you" alt="Few words for you" />
   </a>
+</p>
+
+<p align="center">
+  <font color="#C4A484" face="Georgia, serif">
+    <i><b>I created this little corner simply to share a sense of peace with anyone who stops by. I hope that when you leave, you’ll carry with you a smile and a boost of positive energy for the days ahead.</b></i>
+  </font>
 </p>
 
 <p align="center">
