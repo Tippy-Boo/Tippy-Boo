@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C4A484&text=I%20created%20this%20little%20corner%20simply%20to%20share%20a%20sense%20of%20peace&fontSize=18&fontAlignY=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&weight=700&size=15&color=C4A484&center=true&vCenter=true&width=680&height=70&lines=I+created+this+little+corner+simply+to+share+a+sense+of+peace+with+anyone+who+stops+by.;I+hope+that+when+you+leave%2C+you%E2%80%99ll+carry+with+you+a+smile;and+a+boost+of+positive+energy+for+the+days+ahead." />
 </p>
 
 <p align="center">
