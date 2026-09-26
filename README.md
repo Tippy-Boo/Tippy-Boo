@@ -56,5 +56,6 @@
  ✿~✿
   </p>
 
-  ![Central Park](https://i.giphy.com/l4EoRhmh4w3wqcdAk.gif)
-  
+  <p align="center">
+  <img src="https://giphy.com/gifs/flowers-spring-field-ovji7esqOaIbm" width="85%" style="border-radius: 15px;">
+  </p>
