@@ -32,9 +32,7 @@
 </p>
 
 <p align="center">
-  <font color="#C4A484" face="Georgia, serif">
-    <i><b>I created this little corner simply to share a sense of peace with anyone who stops by. I hope that when you leave, you’ll carry with you a smile and a boost of positive energy for the days ahead.</b></i>
-  </font>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C4A484&text=I%20created%20this%20little%20corner%20simply%20to%20share%20a%20sense%20of%20peace&fontSize=18&fontAlignY=50" />
 </p>
 
 <p align="center">
