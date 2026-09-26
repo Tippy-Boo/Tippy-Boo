@@ -1,4 +1,6 @@
-                 (⁠っ˘⁠з⁠(⁠˶❛⁠⌣❛⁠˶⁠)♡
+ /\_/\  
+( o.o )  *Paw-promise to be sweet!* 🌸
+ > ^ < 
 
 Hi lovely! I'm Tippy-Boo !Thank you so much for dropping by my little cozy space! Hope your day is filled with sweet moments, cute surprises, and lots of smiles. Stay happy and keep shining~
 <p align="center">
