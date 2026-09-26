@@ -27,7 +27,7 @@
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=800&size=30&duration=2000&pause=5000&color=E8C88B&center=true&vCenter=true&width=450&height=50&lines=Few+words+for+you" alt="Few words for you" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=800&size=30&duration=2000&pause=5000&color=E8C88B&center=true&vCenter=true&width=450&height=50&lines=Few+words+for+you" alt="A few words for you" />
   </a>
 </p>
 
