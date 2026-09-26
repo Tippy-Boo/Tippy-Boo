@@ -28,3 +28,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/GNpnp6MDNNzIA/giphy.gif" width="100%" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=700&size=28&pause=1000&color=F6E6C2&center=true&vCenter=true&width=500&height=50&lines=Few+words+for+you++%E2%97%9D%E2%81%A0+%E1%B1%A5%E2%81%A0+%E2%97%9E" alt="Few words for you" />
+  </a>
+</p>
