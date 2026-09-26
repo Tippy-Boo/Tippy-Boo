@@ -55,3 +55,7 @@
   <p align="center">
  ✿~✿
   </p>
+
+  <p align="center">
+  <img src="https://media.giphy.com/media/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Flowers Hortensia Hydrangeas" width="100%" />
+</p>
