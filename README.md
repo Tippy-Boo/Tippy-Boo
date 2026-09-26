@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
-    <img src="https://img.shields.io/badge/🌸_Listen_to_my_healing_song-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
+    <img src="https://img.shields.io/badge/_AMEE_-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
   </a>
 </p>
 
