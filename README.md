@@ -32,20 +32,8 @@
 </p>
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="110" viewBox="0 0 800 110">
-    <style>
-      .text-cafe {
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 16px;
-        fill: #A67C52;
-        text-anchor: middle;
-      }
-    </style>
-    <text x="50%" y="25" class="text-cafe">Break time~ I created this little corner simply to share a sense of peace with anyone who</text>
-    <text x="50%" y="55" class="text-cafe">stops by. I hope that when you leave, you’ll carry with you a smile and a boost of positive</text>
-    <text x="50%" y="85" class="text-cafe">energy for the days ahead.</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=100&text=I%20created%20this%20little%20corner%20simply%20to%20share%20a%20sense%20of%20peace%20with%20anyone%20who%20stops%20by.&textColor=9C6644&fontSize=16&fontAlignY=30" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=40&text=I%20hope%20that%20when%20you%20leave,%20you%E2%80%99ll%20carry%20with%20you%20a%20smile%20and%20a%20boost%20of%20positive%20energy%20for%20the%20days%20ahead.&textColor=9C6644&fontSize=16&fontAlignY=10" />
 </p>
 
 <p align="center">
