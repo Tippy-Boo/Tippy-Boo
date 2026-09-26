@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
-    <img src="https://spotify-github-readme.vercel.app/api/embed?trackId=2SykQzXuFSeprST1uDjj1m&showRecent=true&theme=novathevibe" alt="Spotify Player" width="400px" />
+    <img src="https://img.shields.io/badge/🌸_Listen_to_my_healing_song-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
   </a>
-  <br>
-  <sub>🎧 <i>Click vào thẻ nhạc phía trên để mở bài hát trên Spotify nha~</i> ✨</sub>
 </p>
 
 <p align="center">
