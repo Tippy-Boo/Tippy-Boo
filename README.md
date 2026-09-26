@@ -63,3 +63,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/1ptGhPZSTKkMg/giphy.gif" alt="Flowers Movie Film" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4EoRhmh4w3wqcdAk/giphy.gif" alt="Central Park" width="100%" />
+</p>
