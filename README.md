@@ -11,3 +11,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
+
+<p align="center">
+We may have never spoken or met—we might even be complete strangers in this vast, bustling world—but do you know? The fact that you happened to pause here today is already a truly gentle and precious connection.
+Tippy-Boo
+I am Tippy-Boo, a soul forever captivated by life’s small, gentle wonders.
+I love setting aside quiet moments in the day just to watch new shoots emerge, to see vibrant flowers unfurl their petals in the warm sunlight, and to observe the way the last rays of the day slowly fade into nothingness.
+I cherish the sound of rain falling on the porch and the experience of listening to soft, instrumental music; I also love capturing those peaceful, soul-soothing moments through my words and my little creative projects.
+</p>
+
