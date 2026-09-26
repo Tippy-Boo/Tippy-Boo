@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+𝙸𝚏 𝚢𝚘𝚞'𝚍 𝚕𝚒𝚔𝚎, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚟𝚒𝚜𝚒𝚝 𝚝𝚑𝚎 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚕𝚒𝚗𝚔 𝚊𝚋𝚘𝚟𝚎 𝚘𝚛 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚗𝚍 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚙𝚘𝚜𝚝 𝚝𝚘 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚖𝚢 𝚏𝚊𝚟𝚘𝚛𝚒𝚝𝚎 𝚝𝚞𝚗𝚎𝚜. 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚑𝚎𝚢 𝚋𝚛𝚒𝚗𝚐 𝚢𝚘𝚞 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚌𝚘𝚖𝚏𝚘𝚛𝚝!
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Tippy-Boo" alt="Tippy-Boo Typing" />
   </a>
@@ -64,10 +68,11 @@
   <img src="https://media.giphy.com/media/1ptGhPZSTKkMg/giphy.gif" alt="Flowers Movie Film" width="100%" />
 </p>
 
-<p align="center">
-_𝙀𝙉𝘿_
-</p>
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
     <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
+    
+    <p align="center">
+_𝙀𝙉𝘿_
+</p>
