@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;"｡ﾟ•┈♡">
+  <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
+｡ﾟ•┈♡
 
 <fieldset style="border: 1px solid #333333; border-radius: 8px; padding: 16px; margin: 12px 0;">
   <p align="center">
