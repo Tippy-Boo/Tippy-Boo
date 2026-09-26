@@ -73,6 +73,6 @@
   <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
     <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
     
-    <p align="center">
+<p align="center">
 _𝙀𝙉𝘿_
 </p>
