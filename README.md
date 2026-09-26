@@ -12,11 +12,12 @@
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
 
-<p align="center">
-We may have never spoken or met—we might even be complete strangers in this vast, bustling world—but do you know? The fact that you happened to pause here today is already a truly gentle and precious connection.
-Tippy-Boo
-I am Tippy-Boo, a soul forever captivated by life’s small, gentle wonders.
-I love setting aside quiet moments in the day just to watch new shoots emerge, to see vibrant flowers unfurl their petals in the warm sunlight, and to observe the way the last rays of the day slowly fade into nothingness.
-I cherish the sound of rain falling on the porch and the experience of listening to soft, instrumental music; I also love capturing those peaceful, soul-soothing moments through my words and my little creative projects.
-</p>
-
+<fieldset style="border: 1px solid #333333; border-radius: 8px; padding: 16px; margin: 12px 0;">
+  <p align="center">
+    𝑾𝒆 𝒎𝒂𝒚 𝒉𝒂𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒔𝒑𝒐𝒌𝒆𝒏 𝒐𝒓 𝒎𝒆𝒕 𝒘𝒆 𝒎𝒊𝒈𝒉𝒕 𝒆𝒗𝒆𝒏 𝒃𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒔𝒕𝒓𝒂𝒏𝒈𝒆𝒓𝒔 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒗𝒂𝒔𝒕, 𝒃𝒖𝒔𝒕𝒍𝒊𝒏𝒈 𝒘𝒐𝒓𝒍𝒅 𝒃𝒖𝒕 𝒅𝒐 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘? 𝑻𝒉𝒆 𝒇𝒂𝒄𝒕 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒐 𝒑𝒂𝒖𝒔𝒆 𝒉𝒆𝒓𝒆 𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂 𝒕𝒓𝒖𝒍𝒚 𝒈𝒆𝒏𝒕𝒍𝒆 𝒂𝒏𝒅 𝒑𝒓𝒆𝒄𝒊𝒐𝒖𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏.<br><br>
+    <strong>𝑻𝒊𝒑𝒑𝒚-𝑩𝒐𝒐</strong><br><br>
+    𝑰 𝒂𝒎 𝑻𝒊𝒑𝒑𝒚-𝑩𝒐𝒐, 𝒂 𝒔𝒐𝒖𝒍 𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒄𝒂𝒑𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝒃𝒚 𝒍𝒊𝒇𝒆’𝒔 𝒔𝒎𝒂𝒍𝒍, 𝒈𝒆𝒏𝒕𝒍𝒆 𝒘𝒐𝒏𝒅𝒆𝒓𝒔.<br>
+    𝑰 𝒍𝒐𝒗𝒆 𝒔𝒆𝒕𝒕𝒊𝒏𝒈 𝒂𝒔𝒊𝒅𝒆 𝒒𝒖𝒊𝒆𝒕 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒅𝒂𝒚 𝒋𝒖𝒔𝒕 𝒕𝒐 𝒘𝒂𝒕𝒄𝒉 𝒏𝒆𝒘 𝒔𝒉𝒐𝒐𝒕𝒔 𝒆𝒎𝒆𝒓𝒈𝒆, 𝒕𝒐 𝒔𝒆𝒆 𝒗𝒊𝒃𝒓𝒂𝒏𝒕 𝒇𝒍𝒐𝒘𝒆𝒓𝒔 𝒖𝒏𝒇𝒖𝒓𝒍 𝒕𝒉𝒆𝒊𝒓 𝒑𝒆𝒕𝒂𝒍𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒘𝒂𝒓𝒎 𝒔𝒖𝒏𝒍𝒊𝒈𝒉𝒕, 𝒂𝒏𝒅 𝒕𝒐 𝒐𝒃𝒔𝒆𝒓𝒗𝒆 𝒕𝒉𝒆 𝒘𝒂𝒚 𝒕𝒉𝒆 𝒍𝒂𝒔𝒕 𝒓𝒂𝒚𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒅𝒂𝒚 𝒔𝒍𝒐𝒘𝒍𝒚 𝒇𝒂𝒅𝒆 𝒊𝒏𝒕𝒐 𝒏𝒐𝒕𝒉𝒊𝒏𝒈𝒏𝒆𝒔𝒔.<br>
+    𝑰 𝒄𝒉𝒆𝒓𝒊𝒔𝒉 𝒕𝒉𝒆 𝒔𝒐𝒖𝒏𝒅 𝒐𝒇 𝒓𝒂𝒊𝒏 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒐𝒏 𝒕𝒉𝒆 𝒑𝒐𝒓𝒄𝒉 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 𝒕𝒐 𝒔𝒐𝒇𝒕, 𝒊𝒏𝒔𝒕𝒓𝒖𝒎𝒆𝒏𝒕𝒂𝒍 𝒎𝒖𝒔𝒊𝒄; 𝑰 𝒂𝒍𝒔𝒐 𝒍𝒐𝒗𝒆 𝒄𝒂𝒑𝒕𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒐𝒔𝒆 𝒑𝒆𝒂𝒄𝒆𝒇𝒖𝒍, 𝒔𝒐𝒖𝒍 𝒔𝒐𝒐𝒕𝒉𝒊𝒏𝒈 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒎𝒚 𝒘𝒐𝒓𝒅𝒔 𝒂𝒏𝒅 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
+  </p>
+</fieldset>
