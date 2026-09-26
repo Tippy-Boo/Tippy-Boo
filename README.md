@@ -57,5 +57,5 @@
   </p>
 
   <p align="center">
-  <img src="https://giphy.com/gifs/flowers-spring-field-ovji7esqOaIbm" width="85%" style="border-radius: 15px;">
-  </p>
+  <img src="https://media.giphy.com/media/ovji7esqOaIbm/giphy.gif" alt="Spring Field Flowers" width="100%" />
+</p>
