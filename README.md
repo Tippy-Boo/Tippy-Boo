@@ -72,10 +72,10 @@
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/7l4lXk92jV4Eg2r8ZRel4K">
-    <img src="https://spotify-github-profile.me/api/view?uid=spotify&cover_image=true&theme=novathev&show_offline=false&background_color=f7f1e3&interactivity=false" alt="Spotify Player" />
+    <img src="https://img.shields.io/badge/🎧_My_favorite_song_on_Spotify-F5E6D3?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Track" />
   </a>
 </p>
-    
+
 <p align="center">
 _𝙀𝙉𝘿_
 </p>
