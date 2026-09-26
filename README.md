@@ -24,8 +24,7 @@
     𝑰 𝒍𝒐𝒗𝒆 𝒔𝒆𝒕𝒕𝒊𝒏𝒈 𝒂𝒔𝒊𝒅𝒆 𝒒𝒖𝒊𝒆𝒕 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒅𝒂𝒚 𝒋𝒖𝒔𝒕 𝒕𝒐 𝒘𝒂𝒕𝒄𝒉 𝒏𝒆𝒘 𝒔𝒉𝒐𝒐𝒕𝒔 𝒆𝒎𝒆𝒓𝒈𝒆, 𝒕𝒐 𝒔𝒆𝒆 𝒗𝒊𝒃𝒓𝒂𝒏𝒕 𝒇𝒍𝒐𝒘𝒆𝒓𝒔 𝒖𝒏𝒇𝒖𝒓𝒍 𝒕𝒉𝒆𝒊𝒓 𝒑𝒆𝒕𝒂𝒍𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒘𝒂𝒓𝒎 𝒔𝒖𝒏𝒍𝒊𝒈𝒉𝒕, 𝒂𝒏𝒅 𝒕𝒐 𝒐𝒃𝒔𝒆𝒓𝒗𝒆 𝒕𝒉𝒆 𝒘𝒂𝒚 𝒕𝒉𝒆 𝒍𝒂𝒔𝒕 𝒓𝒂𝒚𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒅𝒂𝒚 𝒔𝒍𝒐𝒘𝒍𝒚 𝒇𝒂𝒅𝒆 𝒊𝒏𝒕𝒐 𝒏𝒐𝒕𝒉𝒊𝒏𝒈𝒏𝒆𝒔𝒔.<br>
     𝑰 𝒄𝒉𝒆𝒓𝒊𝒔𝒉 𝒕𝒉𝒆 𝒔𝒐𝒖𝒏𝒅 𝒐𝒇 𝒓𝒂𝒊𝒏 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒐𝒏 𝒕𝒉𝒆 𝒑𝒐𝒓𝒄𝒉 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 𝒕𝒐 𝒔𝒐𝒇𝒕, 𝒊𝒏𝒔𝒕𝒓𝒖𝒎𝒆𝒏𝒕𝒂𝒍 𝒎𝒖𝒔𝒊𝒄; 𝑰 𝒂𝒍𝒔𝒐 𝒍𝒐𝒗𝒆 𝒄𝒂𝒑𝒕𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒐𝒔𝒆 𝒑𝒆𝒂𝒄𝒆𝒇𝒖𝒍, 𝒔𝒐𝒖𝒍 𝒔𝒐𝒐𝒕𝒉𝒊𝒏𝒈 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒎𝒚 𝒘𝒐𝒓𝒅𝒔 𝒂𝒏𝒅 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
   </p>
-</fieldset>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OHlycnM3Y3d6aWNvZmVwbjRtdnBxb3B1ZTFndHNvNXppc3F3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flower" width="100%" />
+  <img src="https://media.giphy.com/media/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flower" width="100%" />
 </p>
