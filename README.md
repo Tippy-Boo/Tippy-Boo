@@ -70,5 +70,4 @@ _𝙀𝙉𝘿_
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
-    <img src="https://img.shields.io/badge/✿_AMEE_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
-
+    <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
