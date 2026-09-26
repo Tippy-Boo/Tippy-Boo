@@ -31,11 +31,9 @@
   </a>
 </p>
 
-  <p align="center">
-  <font color="#8C6D58">
-    <i>
-      I created this little corner simply to share a sense of peace with anyone who stops by. I hope that when you leave, you’ll carry with you a smile and a boost of positive energy for the days ahead.
-    </i>
+<p align="center">
+  <font color="#9C6644">
+    <i>𝘉𝘳𝘦𝘢𝘬 𝘵𝘪𝘮𝘦~ 𝘐 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘵𝘩𝘪𝘴 𝘭𝘪𝘵𝘵𝘭𝘦 𝘤𝘰𝘳𝘯𝘦𝘳 𝘴𝘪𝘮𝘱𝘭𝘺 𝘵𝘰 𝘴𝘩𝘢𝘳𝘦 𝘢 𝘴𝘦𝘯𝘴𝘦 𝘰𝘧 𝘱𝘦𝘢𝘤𝘦 𝘸𝘪𝘵𝘩 𝘢𝘯𝘺𝘰𝘯𝘦 𝘸𝘩𝘰 𝘴𝘵𝘰𝘱𝘴 𝘣𝘺. 𝘐 𝘩𝘰𝘱𝘦 𝘵𝘩𝘢𝘵 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘭𝘦𝘢𝘷𝘦, 𝘺𝘰𝘶’𝘭𝘭 𝘤𝘢𝘳𝘳𝘺 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶 𝘢 𝘴𝘮𝘪𝘭𝘦 𝘢𝘯𝘥 𝘢 𝘣𝘰𝘰𝘴𝘵 𝘰𝘧 𝘱𝘰𝘴𝘪𝘵𝘪𝘷𝘦 𝘦𝘯𝘦𝘳𝘨𝘺 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘥𝘢𝘺𝘴 𝘢𝘩𝘦𝘢𝘥.</i>
   </font>
 </p>
   
