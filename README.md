@@ -56,6 +56,4 @@
  ✿~✿
   </p>
 
-  <p align="center">
-  <img src="https://giphy.com/gifs/flowers-movie-film-1ptGhPZSTKkMg" width="100%" />
-  </p>
+  <img src="https://media0.giphy.com/media/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flowers" width="300" />
