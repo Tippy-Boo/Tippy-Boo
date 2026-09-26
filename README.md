@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-         ─────✿───────────               
-      3:53                  0:12           
-  󠀠      󠀠 󠀠 󠀠 ⏮ 󠀠 󠀠 󠀠 󠀠 ╹╹ 󠀠 󠀠  󠀠 ⏭                 
+  ⏮ 󠀠 󠀠 󠀠 󠀠 ╹╹ 󠀠 󠀠  󠀠 ⏭                 
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
