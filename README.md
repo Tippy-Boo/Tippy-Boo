@@ -56,6 +56,4 @@
  ✿~✿
   </p>
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/lqedUNbeC4lvHpE1BW/giphy.gif" alt="Hydrangeas Flowers" width="300" />
-  
+  ![Central Park](https://media.giphy.com/media/l4EoRhmh4w3wqcdAk/giphy.gif)
