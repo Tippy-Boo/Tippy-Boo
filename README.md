@@ -72,7 +72,7 @@
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/7l4lXk92jV4Eg2r8ZRel4K">
-    <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Track" />
+    <img src="https://img.shields.io/badge/✿_Mer_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
   </a>
 </p>
 
