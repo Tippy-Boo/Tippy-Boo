@@ -26,5 +26,5 @@
   </p>
 
 <p align="center">
-  <img src="./flower.gif" width="100%" />
+  <img src="https://media.giphy.com/media/GNpnp6MDNNzIA/giphy.gif" width="100%" />
 </p>
