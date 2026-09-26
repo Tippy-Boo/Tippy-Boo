@@ -32,8 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=100&text=I%20created%20this%20little%20corner%20simply%20to%20share%20a%20sense%20of%20peace%20with%20anyone%20who%20stops%20by.&textColor=9C6644&fontSize=16&fontAlignY=30" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=40&text=I%20hope%20that%20when%20you%20leave,%20you%E2%80%99ll%20carry%20with%20you%20a%20smile%20and%20a%20boost%20of%20positive%20energy%20for%20the%20days%20ahead.&textColor=9C6644&fontSize=16&fontAlignY=10" />
+𝐼 𝑐𝑟𝑒𝑎𝑡𝑒𝑑 𝑡ℎ𝑖𝑠 𝑙𝑖𝑡𝑡𝑙𝑒 𝑐𝑜𝑟𝑛𝑒𝑟 𝑠𝑖𝑚𝑝𝑙𝑦 𝑡𝑜 𝑠ℎ𝑎𝑟𝑒 𝑎 𝑠𝑒𝑛𝑠𝑒 𝑜𝑓 𝑝𝑒𝑎𝑐𝑒 𝑤𝑖𝑡ℎ 𝑎𝑛𝑦𝑜𝑛𝑒 𝑤ℎ𝑜 𝑠𝑡𝑜𝑝𝑠 𝑏𝑦. 𝐼 ℎ𝑜𝑝𝑒 𝑡ℎ𝑎𝑡 𝑤ℎ𝑒𝑛 𝑦𝑜𝑢 𝑙𝑒𝑎𝑣𝑒, 𝑦𝑜𝑢’𝑙𝑙 𝑐𝑎𝑟𝑟𝑦 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 𝑎 𝑠𝑚𝑖𝑙𝑒 𝑎𝑛𝑑 𝑎 𝑏𝑜𝑜𝑠𝑡 𝑜𝑓 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒 𝑒𝑛𝑒𝑟𝑔𝑦 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑑𝑎𝑦𝑠 𝑎ℎ𝑒𝑎𝑑.
 </p>
 
 <p align="center">
