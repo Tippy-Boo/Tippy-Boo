@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ovji7esqOaIbm/giphy.gif" alt="Spring Field Flowers" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Tippy-Boo" alt="Tippy-Boo Typing" />
   </a>
@@ -22,6 +18,10 @@
   ⏮ 󠀠 󠀠 󠀠 ╹╹ 󠀠 󠀠  ⏭                 
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ovji7esqOaIbm/giphy.gif" alt="Spring Field Flowers" width="100%" />
 </p>
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 
@@ -63,3 +63,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/1ptGhPZSTKkMg/giphy.gif" alt="Flowers Movie Film" width="100%" />
 </p>
+
+<p align="center">
+The_end
+</p>
+
