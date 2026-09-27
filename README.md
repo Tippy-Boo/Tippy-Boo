@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=28&duration=3000&pause=1000&color=C86D7C&center=true&vCenter=true&width=450&lines=Revealed!!!" alt="Revealed!!! Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=28&duration=3000&pause=1000&color=B56576&center=true&vCenter=true&width=500&lines=Revealed!!!" alt="Revealed!!! Typing" />
   </a>
 </p>
 
