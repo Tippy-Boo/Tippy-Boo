@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEK6WBsejSme4/giphy.gif" alt="Love Pretty GIF" width="100%" />
+  <img src="https://media.giphy.com/media/gOnMMCyqeh3m8/giphy.gif" alt="Vintage 80s GIF" width="100%" />
 </p>
 ｡ﾟ•┈♡-___________(⁠๑ •⁠.̫⁠• ๑⁠)___________-♡┈•｡ﾟ
   <p align="center">
