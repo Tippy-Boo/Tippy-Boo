@@ -55,6 +55,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/gOnMMCyqeh3m8/giphy.gif" alt="Vintage 80s GIF" width="85%" />
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/GNpnp6MDNNzIA/giphy.gif" width="100%" />
 </p>
