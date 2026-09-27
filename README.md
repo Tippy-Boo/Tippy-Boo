@@ -98,7 +98,3 @@
 <p align="center">
 _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
-
-<p align="center">
-  <img src="hdn4sxiNV.pdf.gif" alt="Vintage 80s GIF" width="85%" />
-</p>
