@@ -75,6 +75,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/PR7J3rrNCrFE4/giphy.gif" alt="Aesthetic GIF" width="100%" />
 </p>
+
+  <p align="center">
+𝙋𝙤𝙣𝙮 𝙏𝙤𝙬𝙣 𝙞𝙨 𝙢𝙮 "𝙨𝙚𝙘𝙧𝙚𝙩 𝙝𝙞𝙙𝙚𝙖𝙬𝙖𝙮" 𝙬𝙝𝙚𝙣𝙚𝙫𝙚𝙧 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙗𝙞𝙩 𝙤𝙛 𝙛𝙧𝙚𝙚 𝙩𝙞𝙢𝙚~ 𝘿𝙤𝙣'𝙩 𝙝𝙚𝙨𝙞𝙩𝙖𝙩𝙚 𝙩𝙤 𝙨𝙩𝙤𝙥 𝙗𝙮 𝙖𝙣𝙙 𝙨𝙖𝙮 𝙝𝙚𝙡𝙡𝙤 𝙞𝙛 𝙮𝙤𝙪 𝙝𝙖𝙥𝙥𝙚𝙣 𝙩𝙤 𝙧𝙪𝙣 𝙞𝙣𝙩𝙤 𝙢𝙚; 𝙄'𝙢 𝙖𝙡𝙬𝙖𝙮𝙨 𝙧𝙚𝙖𝙙𝙮 𝙩𝙤 𝙨𝙝𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙬𝙖𝙧𝙢𝙩𝙝 𝙖𝙣𝙙 𝙜𝙞𝙫𝙚 𝙮𝙤𝙪 𝙖 𝙗𝙞𝙜, 𝙩𝙞𝙜𝙝𝙩 𝙝𝙪𝙜!
+  </p>
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe">
