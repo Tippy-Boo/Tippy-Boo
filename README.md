@@ -78,7 +78,7 @@
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe">
-    <img src="https://img.shields.io/badge/🎧_Die_With_A_Smileq-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
+    <img src="https://img.shields.io/badge/🎧_Die_With_A_Smile-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
   </a>
 </p>
 
