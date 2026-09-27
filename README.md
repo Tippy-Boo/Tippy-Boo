@@ -99,5 +99,3 @@
 <p align="center">
 _𝙀𝙉𝘿_
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tippy-Boo&show_icons=true&theme=rose_pine)
-
