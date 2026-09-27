@@ -1,7 +1,6 @@
-
 <p align="center">
   <a href="https://open.spotify.com/track/04S1pkp1VaIqjg8zZqknR5">
-    <img src="https://img.shields.io/badge/🎧_Nhiều_Hơn_--_Listen_on_Spotify-C4A484?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
+    <img src="https://img.shields.io/badge/✿_Enchanted_✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
   </a>
 </p>
 
