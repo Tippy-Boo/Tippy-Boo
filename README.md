@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m">
-    <img src="https://img.shields.io/badge/✿_AMEE_⁠✿-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Healing Song" />
-  </a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04S1pkp1VaIqjg8zZqknR5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
 <p align="center">
