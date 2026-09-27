@@ -100,5 +100,5 @@ _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
 
 <p align="center">
-  <img src="hdn4sxiNV.pdf.gif" width="70%" style="border-radius: 15px;">
+  <img src="hdn4sxiNV.pdf.gif" alt="Vintage 80s GIF" width="85%" />
 </p>
