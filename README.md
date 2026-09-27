@@ -98,3 +98,6 @@
 <p align="center">
 _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
+<p align="center">
+  <img src="https://pin.it/1oBo8JIHq" width="60%" style="border-radius: 12px;">
+</p>
