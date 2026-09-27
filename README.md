@@ -73,9 +73,8 @@
   </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1ptGhPZSTKkMg/giphy.gif" alt="Flowers Movie Film" width="100%" />
+  <img src="https://media.giphy.com/media/PR7J3rrNCrFE4/giphy.gif" alt="Aesthetic GIF" width="100%" />
 </p>
-
 ｡ﾟ•┈♡-______________________________-♡┈•｡ﾟ
 <p align="center">
   <a href="https://open.spotify.com/track/7l4lXk92jV4Eg2r8ZRel4K">
