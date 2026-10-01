@@ -22,3 +22,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jXh3d2OwiAr0k/giphy.gif" width="85%" style="border-radius: 15px;">
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KSqXv1kO2eEo5bXT1R/giphy.gif" width="400" alt="GIF" />
+</p>
