@@ -97,4 +97,3 @@
 _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
 
-<img src="https://media.giphy.com/media/AwmlxHHffEEJ1J4eJH/giphy.gif" alt="White Blossom Tree" width="500"/>
