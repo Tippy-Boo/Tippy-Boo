@@ -97,5 +97,4 @@
 _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
 
-![](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx)
-
+<img src="https://media.giphy.com/media/AwmlxHHffEEJ1J4eJH/giphy.gif" alt="White Blossom Tree" width="500"/>
