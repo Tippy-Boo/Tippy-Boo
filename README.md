@@ -97,5 +97,5 @@
 _𝗧𝗛𝗘 𝗘𝗡𝗗_
 </p>
 
-![GIF](1000014721.gif)
+![](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx)
 
